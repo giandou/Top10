@@ -2,7 +2,7 @@
 
 ## What Are Application Security Risks?
 
-Potenzialmente gli attaccanti possono usare differenti percorsi della tua applicazione per danneggiare il tuo business o la tua organizzazione. Ognuno di questi percorsi rappresenta un rischio che può essere, o meno, abbastanza serio da garantire attenzione. 
+Gli attaccanti possono potenzialmente sfruttare differenti percorsi della tua applicazione per danneggiare il tuo business o la tua organizzazione. Ognuno di questi percorsi rappresenta un rischio che può essere, o meno, abbastanza serio da garantire attenzione. 
 
 ![App Security Risks](images/0x10-risk-1.png)
 
